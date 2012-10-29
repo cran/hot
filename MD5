@@ -1,0 +1,7 @@
+0ff28e42d6482893575b7c7988f355a6 *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+72e110bad0318094ef2edc5b7a8e8aaa *R/hot.comp.R
+1ab5c7e4381ed933d52284272eefa7a0 *R/zzz.R
+82888155a7b18ba040dddcdd7d7129af *man/hot-package.Rd
+be4cda4e8197d7aa00ab8379e2ac6fe2 *man/hot.comp.Rd
+95f50ed8a90ab21a81cb339f9329c6a6 *src/hot.f

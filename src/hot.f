@@ -731,6 +731,7 @@ c      write(*,*) 'y=',y
          B(1,2) = -A(1,2)/d
          B(2,1) = -A(2,1)/d
          B(2,2) =  A(1,1)/d
+         INFO = 0
       endif
 
       if(q .ge. 3) then
